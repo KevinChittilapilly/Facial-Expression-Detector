@@ -8,7 +8,5 @@
  you will directly serve the trained model to a web interface and perform real-time facial expression recognition on video and image data.
  The entire project is then uploaded to web interface using <b>flask</b>
  
- #Steps to run the project
- 
- 1. Clone and download the project files.
- 2. 
+ 1. Clone and download the project files. 2. The model is already pretrained. Hence you only have to run it :)
+ 3. Open Untitled.pynb and run the first line of code and u r good to go. Navigate to 127.0.0.1:5000 and see the ouput
